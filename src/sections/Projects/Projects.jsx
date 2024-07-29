@@ -18,9 +18,9 @@ function Projects() {
         />
         <ProjectCard
           src={freshBurger}
-          link="https://github.com/Akshayd079/react_restaurant"
-          h3="Restaurant"
-          p="Indian Retuarant"
+          link="https://mcgarage.netlify.app/"
+          h3="MC Garage"
+          p="Car Garage"
         />
         <ProjectCard
           src={hipsster}
