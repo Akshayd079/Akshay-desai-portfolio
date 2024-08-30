@@ -13,7 +13,7 @@ function Projects() {
         <ProjectCard
           src={viberr}
           link="https://github.com/Akshayd079/JavaScript/tree/main/Expense%20tracker"
-          h3="Viberr"
+          h3="Money Saver"
           p="Expense Tracker"
         />
         <ProjectCard
@@ -25,14 +25,14 @@ function Projects() {
         <ProjectCard
           src={hipsster}
           link="https://github.com/Akshayd079/JavaScript/tree/main/to%20do%20list"
-          h3="To Do"
+          h3="Doerrr"
           p="To do list "
         />
         <ProjectCard
           src={fitLift}
           link="https://github.com/geeyas222/startup"
-          h3="SoftHat"
-          p="Web Solution"
+          h3="SoftHatSolution"
+          p="Website"
         />
       </div>
     </section>
